@@ -1,1 +1,3 @@
-- 👋 Hi, I’m Martin, welcome to my GitHub profile
+## 👋 Hi there
+
+I'm Martin and I do applied statistics for a living. Welcome to my GitHub profile!
