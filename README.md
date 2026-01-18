@@ -2,7 +2,13 @@
 
 I work as a data scientist in energy trading. I develop forecasting models, data processing pipelines, and interactive visualizations.
 
-On my GitHub profile, you'll find style sheets, analyses, and some small projects (mostly in Python and R). You can also find me here:
+On my GitHub profile, you'll find websites ([1](https://github.com/rnd195/marp-community-themes), [2](https://github.com/rnd195/rnd195.github.io)), style sheets ([3](https://github.com/rnd195/my-marp-themes)), forecasts ([4](https://github.com/rnd195/tfm-electricity-consumption), [5](https://github.com/rnd195/mgr-thesis-ies)), and some small projects ([6](https://github.com/rnd195/basic-llm-gui), [7](https://github.com/rnd195/basic-tts-tool), [8](https://github.com/rnd195/wizard-shop-dataset)). You can also find me here:
 
 - [Personal blog](https://rnd195.github.io/blog.html)
+    - [Visualizing Matrix-vector Multiplication in Bokeh](https://rnd195.github.io/posts/matrix-vector-multiplication/) (November 14, 2025)
+    - [How to Build a Local Python Package with uv](https://rnd195.github.io/posts/build-package-uv/) (August 3, 2025)
+    - [A Beginner’s Guide to pandas & polars](https://rnd195.github.io/posts/my-pd-pl-guide/) (May 5, 2025)
+    - [Reflections on FOSDEM 2025](https://rnd195.github.io/posts/reflections-fosdem-2025/) (February 15, 2025)
+    - [Benchmarking TimesFM on Electricity Consumption Data](https://rnd195.github.io/posts/tfm-electricity-consumption/) (January 26, 2025)
+
 - [LinkedIn](https://www.linkedin.com/in/martin-randa/)
