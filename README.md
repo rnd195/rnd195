@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Martin!
 
-I work as a Python developer / data scientist in energy trading. I develop forecasting models, data processing pipelines, and interactive visualizations. Outside of work, I volunteer for [IuRe's Digital Freedoms program](https://digitalnisvobody.cz/digital-freedom/), and I am passionate about open source software.
+I work as a Python developer / data scientist in energy trading. I develop forecasting models, data processing pipelines, and interactive visualizations. Outside of work, I occasionally contribute to [IuRe's Digital Freedoms program](https://digitalnisvobody.cz/digital-freedom/), and I am passionate about open source software.
 
 On my GitHub profile, you'll find websites ([1](https://github.com/rnd195/marp-community-themes), [2](https://github.com/rnd195/rnd195.github.io)), style sheets ([3](https://github.com/rnd195/my-marp-themes)), forecasts ([4](https://github.com/rnd195/tfm-electricity-consumption), [5](https://github.com/rnd195/mgr-thesis-ies)), and some small projects ([6](https://github.com/rnd195/basic-llm-gui), [7](https://github.com/rnd195/basic-tts-tool), [8](https://github.com/rnd195/wizard-shop-dataset)). You can also find me here:
 
