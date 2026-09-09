@@ -7,9 +7,12 @@ On my GitHub profile, you'll find websites ([1](https://github.com/rnd195/marp-c
 - [Personal blog](https://rnd195.github.io/blog.html)
     - [How to Build a Local Python Package with uv in 2026](https://rnd195.github.io/posts/build-package-uv/) (August 18, 2026)
     - [Visualizing Data on a Map with Python](https://rnd195.github.io/posts/map-viz-py/) (April 24, 2026)
-    - [Notes on my FOSDEM 2026 Talk: My Grandma Needed a New Computer?](https://rnd195.github.io/posts/grandma-computer-fosdem-2026/) (February 14, 2026)
     - [Visualizing Matrix-vector Multiplication in Bokeh](https://rnd195.github.io/posts/matrix-vector-multiplication/) (November 14, 2025)
     - [A Beginner’s Guide to pandas & polars](https://rnd195.github.io/posts/my-pd-pl-guide/) (May 5, 2025)
     - [Benchmarking TimesFM on Electricity Consumption Data](https://rnd195.github.io/posts/tfm-electricity-consumption/) (January 26, 2025)
 
 - [LinkedIn](https://www.linkedin.com/in/martin-randa/)
+
+- <ins>Elsewhere on the web</ins>
+    - [Which Browser to Use in Autumn 2026 (Guest post in Czech)](https://blog.digitalnisvobody.cz/2026/09/02/prohlizece26/) (September 2, 2026)
+    - [My Grandma Needed a New Computer? (FOSDEM 2026 Lightning lightning talk)](https://archive.fosdem.org/2026/schedule/event/G3ZWYU-lightning_lightning_talks_2/) (February 1, 2026)
