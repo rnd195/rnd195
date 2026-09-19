@@ -8,7 +8,7 @@ On my GitHub profile, you'll find websites ([1](https://github.com/rnd195/marp-c
     - [How to Build a Local Python Package with uv in 2026](https://rnd195.github.io/posts/build-package-uv/) (August 18, 2026)
     - [Visualizing Data on a Map with Python](https://rnd195.github.io/posts/map-viz-py/) (April 24, 2026)
     - [Visualizing Matrix-vector Multiplication in Bokeh](https://rnd195.github.io/posts/matrix-vector-multiplication/) (November 14, 2025)
-    - [A Beginner’s Guide to pandas & polars](https://rnd195.github.io/posts/my-pd-pl-guide/) (May 5, 2025)
+    - [A Beginner’s Guide to pandas & Polars](https://rnd195.github.io/posts/my-pd-pl-guide/) (May 5, 2025)
     - [Benchmarking TimesFM on Electricity Consumption Data](https://rnd195.github.io/posts/tfm-electricity-consumption/) (January 26, 2025)
 
 - [LinkedIn](https://www.linkedin.com/in/martin-randa/)
